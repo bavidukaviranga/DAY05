@@ -1,0 +1,19 @@
+.group01{
+    background-color: blue;
+}
+.group02{
+    background-color: brown;
+    border: 5px solid yellow;
+    border-style: double;
+    border-radius: 10px;
+    border-top-style: dashed;
+    border-bottom: dotted;
+}
+
+#background{
+    background-image: url(img/backg.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    background-position:center;
+    background-repeat:no-repeat;
+}
